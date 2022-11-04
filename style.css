@@ -1,0 +1,11 @@
+body{
+  background:black;
+  color:orange;
+}
+button{
+      color:tomato;
+      background-color:green;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+    }
